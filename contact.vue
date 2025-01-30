@@ -32,3 +32,8 @@
     </table>
   </body>
 </template>
+
+<script setup>
+import LoginForm from '/components/LoginForm.vue';
+import Date from '/components/Date.vue';
+</script>
