@@ -19,10 +19,10 @@
         </td>
         <td width="190" bgcolor="#FFFF66">
           <ul>
-            <li><a href="/home">หน้าแรก</li>
-            <li><a href="/room">ห้องพัก&ราคา</li>
-            <li><a herf="/guest">สมุดเยี่ยม</li>
-            <li><a href="/contact">ติดต่อ</li>
+            <li><a href="/home">หน้าแรก</a></li>
+            <li><a href="/room">ห้องพัก&ราคา</a></li>
+            <li><a herf="/guest">สมุดเยี่ยม</a></li>
+            <li><a href="/contact">ติดต่อ</a></li>
           </ul>
           <div>
             <LoginForm />
